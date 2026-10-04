@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": null,
+  "timezone": "UTC",
+  "weekStart": null,
+  "weekEnd": null,
+  "fetchEnd": null,
+  "source": "Finance Calendar",
+  "sourceUrl": "https://www.financecalendar.com",
+  "events": [],
+  "goldFilter": {
+    "mode": "narrow-usd-macro",
+    "description": "USD macro releases with a direct rates, real-yield or Federal Reserve channel to gold.",
+    "patterns": []
+  }
+}
