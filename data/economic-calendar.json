@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T06:57:58.210946Z",
+  "generatedAt": "2026-10-20T06:52:35.924628Z",
   "timezone": "UTC",
   "weekStart": "2026-10-19",
   "weekEnd": "2026-10-25",
@@ -9,7 +9,7 @@
   "sourceUrl": "https://www.financecalendar.com",
   "events": [
     {
-      "id": "7e653051161a69a975c1",
+      "id": "c169aca5f0b0368d74f7",
       "date": "2026-10-20",
       "time": "12:30",
       "datetimeUtc": "2026-10-20T12:30:00Z",
@@ -18,13 +18,13 @@
       "goldRelevant": false,
       "event": "Housing starts",
       "impact": "medium",
-      "previous": null,
+      "previous": "1,275,000 annualised rate (August 2026)",
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-october-2026/"
     },
     {
-      "id": "0ed3e359eb50d4601d89",
+      "id": "5ee9156b57014195bfce",
       "date": "2026-10-22",
       "time": "12:30",
       "datetimeUtc": "2026-10-22T12:30:00Z",
@@ -33,13 +33,13 @@
       "goldRelevant": true,
       "event": "Jobless claims",
       "impact": "medium",
-      "previous": "206,000 initial claims",
+      "previous": "206,000 initial claims (week ending August 15, 2026)",
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-initial-jobless-claims-october-22-2026/"
     },
     {
-      "id": "9279a720a4b4303816d1",
+      "id": "405ff41e3c292057d3a5",
       "date": "2026-10-23",
       "time": "14:00",
       "datetimeUtc": "2026-10-23T14:00:00Z",
@@ -48,7 +48,7 @@
       "goldRelevant": false,
       "event": "Michigan sentiment",
       "impact": "medium",
-      "previous": "55.2",
+      "previous": "55.2 (July 2026, final)",
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-october-2026/"
