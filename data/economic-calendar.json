@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T06:52:35.924628Z",
+  "generatedAt": "2026-10-21T06:54:09.589779Z",
   "timezone": "UTC",
   "weekStart": "2026-10-19",
   "weekEnd": "2026-10-25",
@@ -20,7 +20,7 @@
       "impact": "medium",
       "previous": "1,275,000 annualised rate (August 2026)",
       "forecast": null,
-      "actual": null,
+      "actual": "1,221,000 SAAR, -5.2% MoM (permits 1,400,000)",
       "sourceUrl": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-october-2026/"
     },
     {
@@ -33,7 +33,7 @@
       "goldRelevant": true,
       "event": "Jobless claims",
       "impact": "medium",
-      "previous": "206,000 initial claims (week ending August 15, 2026)",
+      "previous": "199,000 (week ending October 10, 2026)",
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-initial-jobless-claims-october-22-2026/"
