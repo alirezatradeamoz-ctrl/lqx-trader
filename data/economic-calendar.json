@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T06:54:25.266724Z",
+  "generatedAt": "2026-10-23T06:53:38.389804Z",
   "timezone": "UTC",
   "weekStart": "2026-10-19",
   "weekEnd": "2026-10-25",
@@ -63,9 +63,9 @@
       "goldRelevant": false,
       "event": "Housing starts",
       "impact": "medium",
-      "previous": "1,275,000 annualised rate (August 2026)",
+      "previous": null,
       "forecast": null,
-      "actual": "1,221,000 SAAR, -5.2% MoM (permits 1,400,000)",
+      "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-new-residential-construction-housing-starts-october-2026/"
     },
     {
@@ -138,7 +138,7 @@
       "goldRelevant": true,
       "event": "Jobless claims",
       "impact": "medium",
-      "previous": "199,000 (week ending October 10, 2026)",
+      "previous": null,
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-initial-jobless-claims-october-22-2026/"
@@ -170,7 +170,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 3.945%; bid-to-cover 2.82",
       "sourceUrl": null
     },
     {
@@ -185,7 +185,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 4.015%; bid-to-cover 2.57",
       "sourceUrl": null
     },
     {
@@ -200,7 +200,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 3.925%; bid-to-cover 3.87",
       "sourceUrl": null
     },
     {
@@ -215,7 +215,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high yield 2.367%; bid-to-cover 2.41",
       "sourceUrl": null
     },
     {
@@ -228,7 +228,7 @@
       "goldRelevant": false,
       "event": "Michigan sentiment",
       "impact": "medium",
-      "previous": "46.3 (preliminary, October 2026)",
+      "previous": null,
       "forecast": null,
       "actual": null,
       "sourceUrl": "https://www.financecalendar.com/event/us-university-of-michigan-consumer-sentiment-october-2026/"
@@ -236,8 +236,8 @@
     {
       "id": "2533d486bb5e23d69298",
       "date": "2026-10-26",
-      "time": "00:00",
-      "datetimeUtc": "2026-10-26T00:00:00Z",
+      "time": "15:30",
+      "datetimeUtc": "2026-10-26T15:30:00Z",
       "currency": "USD",
       "market": "USD",
       "goldRelevant": false,
@@ -249,14 +249,14 @@
       "sourceUrl": null
     },
     {
-      "id": "e4bade674c1c6bd90c93",
+      "id": "4007ae2ca699d460b158",
       "date": "2026-10-26",
-      "time": "00:00",
-      "datetimeUtc": "2026-10-26T00:00:00Z",
+      "time": "15:30",
+      "datetimeUtc": "2026-10-26T15:30:00Z",
       "currency": "USD",
       "market": "USD",
       "goldRelevant": false,
-      "event": "Treasury 2-Year Note Auction 2026-10-26 (91282CRU7)",
+      "event": "Treasury 26-Week Bill Auction 2026-10-26 (912797WW3)",
       "impact": "medium",
       "previous": null,
       "forecast": null,
@@ -264,14 +264,14 @@
       "sourceUrl": null
     },
     {
-      "id": "4007ae2ca699d460b158",
+      "id": "e4bade674c1c6bd90c93",
       "date": "2026-10-26",
-      "time": "00:00",
-      "datetimeUtc": "2026-10-26T00:00:00Z",
+      "time": "17:00",
+      "datetimeUtc": "2026-10-26T17:00:00Z",
       "currency": "USD",
       "market": "USD",
       "goldRelevant": false,
-      "event": "Treasury 26-Week Bill Auction 2026-10-26 (912797WW3)",
+      "event": "Treasury 2-Year Note Auction 2026-10-26 (91282CRU7)",
       "impact": "medium",
       "previous": null,
       "forecast": null,
