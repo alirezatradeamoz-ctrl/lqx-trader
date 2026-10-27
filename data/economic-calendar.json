@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T06:58:11.943418Z",
+  "generatedAt": "2026-10-27T06:54:03.921175Z",
   "timezone": "UTC",
   "weekStart": "2026-10-26",
   "weekEnd": "2026-11-01",
@@ -20,7 +20,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 4.050%; bid-to-cover 3.07",
       "sourceUrl": null
     },
     {
@@ -35,7 +35,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 4.210%; bid-to-cover 2.63",
       "sourceUrl": null
     },
     {
@@ -50,7 +50,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high yield 4.708%; bid-to-cover 2.59",
       "sourceUrl": null
     },
     {
