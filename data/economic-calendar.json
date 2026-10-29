@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T06:54:03.921175Z",
+  "generatedAt": "2026-10-29T07:06:16.358453Z",
   "timezone": "UTC",
   "weekStart": "2026-10-26",
   "weekEnd": "2026-11-01",
@@ -110,7 +110,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 4.290%; bid-to-cover 3.15",
       "sourceUrl": null
     },
     {
@@ -125,7 +125,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high rate 3.950%; bid-to-cover 2.83",
       "sourceUrl": null
     },
     {
@@ -140,7 +140,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high yield 4.845%; bid-to-cover 2.33",
       "sourceUrl": null
     },
     {
@@ -174,6 +174,21 @@
       "sourceUrl": null
     },
     {
+      "id": "ac79a34eeff0fb0527f1",
+      "date": "2026-10-28",
+      "time": "15:30",
+      "datetimeUtc": "2026-10-28T15:30:00Z",
+      "currency": "USD",
+      "market": "USD",
+      "goldRelevant": false,
+      "event": "Treasury 17-Week Bill Auction 2026-10-28 (912797XB8)",
+      "impact": "medium",
+      "previous": null,
+      "forecast": null,
+      "actual": "high rate 4.140%; bid-to-cover 3.08",
+      "sourceUrl": null
+    },
+    {
       "id": "902057c02861831d7cf5",
       "date": "2026-10-28",
       "time": "15:30",
@@ -185,7 +200,7 @@
       "impact": "medium",
       "previous": null,
       "forecast": null,
-      "actual": null,
+      "actual": "high discount margin 0.038; bid-to-cover 3.05",
       "sourceUrl": null
     },
     {
@@ -272,6 +287,36 @@
       "market": "USD",
       "goldRelevant": false,
       "event": "EIA Weekly Natural Gas Storage Report",
+      "impact": "medium",
+      "previous": null,
+      "forecast": null,
+      "actual": null,
+      "sourceUrl": null
+    },
+    {
+      "id": "5e5352095ae040ab1fc5",
+      "date": "2026-10-29",
+      "time": "15:30",
+      "datetimeUtc": "2026-10-29T15:30:00Z",
+      "currency": "USD",
+      "market": "USD",
+      "goldRelevant": false,
+      "event": "Treasury 4-Week Bill Auction 2026-10-29 (912797VZ7)",
+      "impact": "medium",
+      "previous": null,
+      "forecast": null,
+      "actual": null,
+      "sourceUrl": null
+    },
+    {
+      "id": "906c801d3b5f27096514",
+      "date": "2026-10-29",
+      "time": "15:30",
+      "datetimeUtc": "2026-10-29T15:30:00Z",
+      "currency": "USD",
+      "market": "USD",
+      "goldRelevant": false,
+      "event": "Treasury 8-Week Bill Auction 2026-10-29 (912797WH6)",
       "impact": "medium",
       "previous": null,
       "forecast": null,
